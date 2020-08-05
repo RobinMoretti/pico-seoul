@@ -1,0 +1,9 @@
+author = "Robin Moretti"
+cart = "gangnam.p8"
+description = "Une course a gangnam"
+name = "Gangnam"
+open_pico = true
+src_dir = "src"
+version = "1.0.0"
+watch = true
+executable = "/Applications/pico-8/PICO-8.app/Contents/MacOS/pico8"
